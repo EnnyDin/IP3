@@ -109,3 +109,14 @@ p12:hover {
 #message {
   color: rgb(128, 128, 128);
 }
+.socials{
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+#all {
+  font-family: "Times New Roman", Times, serif;
+}
