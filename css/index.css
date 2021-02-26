@@ -1,0 +1,108 @@
+.centered {
+  position: absolute;
+  top: 70%;
+  left: 35%;
+  color: white;
+  font-size:600%;
+}
+.TO {
+  position:absolute;
+  top: 85%;
+  left: 30%;
+  color: white;
+  font-size:350%;
+}
+#fun {
+  position: absolute;
+  top: 95%;
+  left: 25%;
+  color: white;
+  font-size:medium;
+}
+.col-md-10{
+  text-align: center;
+  
+}
+/* container for services*/
+#container{
+  position: absolute;
+}
+
+#centered {
+  position: absolute;
+  top: 1150px;
+  color:black;
+  left:15%;
+  
+}
+#DO{
+  text-align: center;
+}
+
+.design-showing{
+  display:none;
+}
+.development-showing{
+  display: none;
+}
+.product-showing{
+  display: none;
+}
+
+p5:hover {
+  opacity:0.5;
+  top: 50%;
+}
+.one-showing{
+  display:none;
+  
+}
+p6:hover {
+  opacity:0.5;
+  top: 50%;
+}
+.two-showing{
+  display: none;
+}
+p7:hover {
+  opacity:0.5;
+  top: 50%;
+}
+.three-showing{
+  display: none;
+}
+p8:hover {
+  opacity:0.5;
+  top: 50%;
+}
+.four-showing{
+  display: none;
+}
+p9:hover {
+  opacity:0.5;
+  top: 50%;
+}
+.five-showing{
+  display: none;
+}
+p10:hover {
+  opacity:0.5;
+  top: 50%;
+}
+.six-showing{
+  display: none;
+}
+p11:hover {
+  opacity:0.5;
+  top: 50%;
+}
+.seven-showing{
+  display: none;
+}
+p12:hover {
+  opacity:0.5;
+  top: 50%;
+}
+.eight-showing{
+  display: none;
+}
