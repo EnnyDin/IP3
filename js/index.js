@@ -35,7 +35,19 @@ $("p11").hover(function(){
 $("p12").hover(function(){
     $(".eight-showing").toggle();
 })
-     
+function validate(event){
+    event.preventDefault;
+    let name = $('#name').val();
+    let email= $('#email').val();
+    let message = $('#message').val();
+
+    if (name=='' || email =='' || message ==''){
+        alert('Error! All fields must be included')
+        return false;
+    }
+    
+
+}    
      
      
      
