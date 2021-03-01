@@ -120,3 +120,13 @@ p12:hover {
 #all {
   font-family: "Times New Roman", Times, serif;
 }
+@media screen and (min-width: 768px) and (max-width: 1920px) {
+  body {
+      background-color: azure;
+      
+  }
+}
+@media screen and (min-width: 1921px) {
+body {
+  background-color:#ebd9d9;
+}
