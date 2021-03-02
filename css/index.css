@@ -31,7 +31,7 @@
 #centered {
   position: absolute;
   top: 1100px;
-  color:rgb(0, 0, 0);
+  color:rgb(252, 252, 252);
   left: 20%;
   
 }
@@ -110,12 +110,12 @@ p12:hover {
   color: rgb(128, 128, 128);
 }
 .socials{
-  padding: 20px;
-  font-size: 30px;
-  width: 30px;
+  padding: 5px;
+  font-size: 5px;
+  width: 5px;
   text-align: center;
   text-decoration: none;
-  border-radius: 50%;
+  border-radius: 5%;
 }
 #all {
   font-family: "Times New Roman", Times, serif;
