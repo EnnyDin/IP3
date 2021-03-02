@@ -129,4 +129,100 @@ p12:hover {
 @media screen and (min-width: 1921px) {
 body {
   background-color:#ebd9d9;
+}}
+
+#first {
+  position: relative;
+}
+.one-showing {
+  position: absolute;
+  top:50%;
+  left:25%;
+  text-align: center;
+  z-index: 10;
+  margin:0 auto;
+}
+
+#second {
+  position: relative;
+}
+.two-showing{
+  position: absolute;
+  top:50%;
+  left:25%;
+  text-align: center;
+  z-index: 10;
+  margin:0 auto;
+}
+
+#third {
+  position: relative;
+}
+.three-showing {
+  position: absolute;
+  top:50%;
+  left:25%;
+  text-align: center;
+  z-index: 10;
+  margin:0 auto;
+}
+
+#fourth{
+  position: relative;
+}
+.four-showing{
+  position: absolute;
+  top:50%;
+  left:25%;
+  text-align: center;
+  z-index: 10;
+  margin:0 auto;
+}
+
+#fifth {
+  position: relative;
+}
+.five-showing{
+  position: absolute;
+  top:50%;
+  left:25%;
+  text-align: center;
+  z-index: 10;
+  margin:0 auto;
+}
+
+#sixth{
+  position: relative;
+}
+
+.six-showing{
+  position: absolute;
+  top:50%;
+  left:25%;
+  text-align: center;
+  z-index: 10;
+  margin:0 auto;
+}
+
+#seven {
+  position: relative;
+}
+.seven-showing{
+  position: absolute;
+  top:50%;
+  left:25%;
+  text-align: center;
+  z-index: 10;
+  margin:0 auto;
+}
+#eight{
+  position: relative;
+}
+.eight-showing {
+  position: absolute;
+  top:50%;
+  left:25%;
+  text-align: center;
+  z-index: 10;
+  margin:0 auto;
 }

@@ -35,19 +35,16 @@ $("p11").hover(function(){
 $("p12").hover(function(){
     $(".eight-showing").toggle();
 })
-function validate(event){
-    event.preventDefault;
-    let name = $('#name').val();
-    let email= $('#email').val();
-    let message = $('#message').val();
-
-    if (name=='' || email =='' || message ==''){
-        alert('Error! All fields must be included')
-        return false;
+function formMessage(){
+    let name = document.getElementById('Name').value
+    if(document.getElementById('Name').value=="")
+    alert("please fill in the blanks! Thank you......");
+    else{
+        alert(Name + " Thank you for contacting us! You are now subscribed")
     }
-    
+}
 
-}    
+   
      
      
      
